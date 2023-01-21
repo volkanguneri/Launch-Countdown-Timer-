@@ -120,7 +120,8 @@ main .social-media-icons a img {
 }
 
 main .social-media-icons a img:hover {
-    fill: var(--soft-red);
+    filter: invert(60%) sepia(43%) saturate(6017%) hue-rotate(315deg) brightness(109%) contrast(97%);
+
 }
 
 

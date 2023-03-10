@@ -34,6 +34,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    margin:0;
     background-image: url('images/bg-stars.svg'), url('images/pattern-hills.svg');
     background-position: center center, bottom center;
     background-repeat: no-repeat, no-repeat;

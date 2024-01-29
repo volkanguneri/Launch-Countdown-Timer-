@@ -13,7 +13,7 @@ let timer
 
 // variable for the date we countdown to
 
-const launchDate = new Date("2023, 04, 21");
+const launchDate = new Date("2024, 04, 21");
 
 // Function and setInterval
 

@@ -10,7 +10,7 @@ This project is a countdown timer designed to display the remaining time until a
 
 ## Installation
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine: https://github.com/volkanguneri/Launch-Countdown-Timer-.git
 2. Open the `index.html` file in your web browser to view the countdown timer.
 
 ## Usage
@@ -21,14 +21,10 @@ To use this countdown timer, modify the `launchDate` variable in the JavaScript 
 
 Contributions are welcome! If you'd like to contribute to this project, please feel free to submit pull requests or report issues.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
 If you have any questions or suggestions, please open an issue on this repository.
 
 ---
 
-© 2024 Your Name
+© 2023 Volkan Guneri

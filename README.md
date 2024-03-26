@@ -10,7 +10,7 @@ This project is a countdown timer designed to display the remaining time until a
 
 ## Installation
 
-1. Clone this repository to your local machine: https://github.com/volkanguneri/Launch-Countdown-Timer-.git
+1. Clone this repository to your local machine: `https://github.com/volkanguneri/Launch-Countdown-Timer-.git`
 2. Open the `index.html` file in your web browser to view the countdown timer.
 
 ## Usage

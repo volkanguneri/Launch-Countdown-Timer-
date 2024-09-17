@@ -12,7 +12,7 @@ const day: number = hour * 24;
 let timer: number;
 
 // variable for the date we countdown to
-const launchDate: Date = new Date("2024, 04, 21");
+const launchDate: Date = new Date("2025, 04, 21");
 
 // Function and setInterval
 function countDown(): void {
